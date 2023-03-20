@@ -2,8 +2,8 @@ import TopBar from "./TopBar"
 
 const Layout = ({children}) => {
   return (
-    <><TopBar/>
-    {children}</>
+    <main><TopBar/>
+    {children}</main>
   )
 }
 

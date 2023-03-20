@@ -36,7 +36,7 @@ const AllCountries = memo(function AllCountries({ country }) {
                 minHeight: "100%",
                 objectFit: "cover",
               }}
-              loading="lazy"
+            
             />
           </Box>
           <Box
